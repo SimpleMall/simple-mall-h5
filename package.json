@@ -2,6 +2,11 @@
   "name": "simple-mall-h5",
   "version": "0.0.0",
   "private": true,
+  "author": {
+    "name": "Ryan SU",
+    "email": "yuansu.china.work@gmail.com",
+    "url": "https://github.com/suyuan32"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
@@ -58,6 +63,7 @@
     "@types/webfontloader": "^1.6.35",
     "@vitejs/plugin-vue": "^3.0.3",
     "@vue/eslint-config-typescript": "^11.0.0",
+    "autoprefixer": "^10.4.13",
     "eslint": "^8.22.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
