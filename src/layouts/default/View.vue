@@ -1,6 +1,8 @@
 <template>
-  <v-main>
-    <router-view />
+  <v-main class="bg-grey-lighten-3">
+    <v-container class="w-75">
+      <router-view />
+    </v-container>
   </v-main>
 </template>
 
